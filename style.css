@@ -1,0 +1,40 @@
+.main{
+    height:650px;
+    width:100%;
+    background:aqua;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  .child{
+    margin:5px;
+    color:green;
+    height:100px;
+    width:300px;
+    background:white;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    font-weight:bold;
+    align-items:center;
+    font-size:30px;
+    border:1px solid green;
+   
+  }
+  
+  .child-2{
+    margin:5px;
+    height:100px;
+    width:300px;
+    background:white;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:30px;
+    font-weight:bold;
+    background: green;
+    color:white;
+    border:1px solid white;
+  }
